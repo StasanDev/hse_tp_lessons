@@ -25,5 +25,6 @@ int main(void)
     // task 11 start/c1
     // c2
     // c5
+    // c6
     return 0;
 }
